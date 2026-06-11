@@ -1,0 +1,12 @@
+MOCK CONTRACT 16
+TYPE: NDA
+Risks injected:
+- Non-GDPR compliant personal data transfer rules
+- Automatic renewal with 180-day written cancellation notice
+- Unfavorable governing law and jurisdiction (e.g., Delaware/London under tight timelines)
+- Uncapped liability clause favoring vendor
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

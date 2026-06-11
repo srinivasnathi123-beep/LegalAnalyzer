@@ -1,0 +1,12 @@
+MOCK CONTRACT 14
+TYPE: SOW
+Risks injected:
+- Non-GDPR compliant personal data transfer rules
+- Automatic renewal with 180-day written cancellation notice
+- Missing service level agreement (SLA) late delivery penalties
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

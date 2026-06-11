@@ -1,0 +1,12 @@
+MOCK CONTRACT 9
+TYPE: Vendor Agreement
+Risks injected:
+- Non-GDPR compliant personal data transfer rules
+- Complete exclusion of all implied and express warranties on deliverables
+- Missing service level agreement (SLA) late delivery penalties
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

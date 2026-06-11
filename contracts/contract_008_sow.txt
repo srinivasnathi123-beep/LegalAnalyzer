@@ -1,0 +1,12 @@
+MOCK CONTRACT 8
+TYPE: SOW
+Risks injected:
+- Unfavorable governing law and jurisdiction (e.g., Delaware/London under tight timelines)
+- Uncapped liability clause favoring vendor
+- Automatic renewal with 180-day written cancellation notice
+- Missing service level agreement (SLA) late delivery penalties
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

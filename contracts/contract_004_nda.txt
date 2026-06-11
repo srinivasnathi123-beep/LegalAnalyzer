@@ -1,0 +1,12 @@
+MOCK CONTRACT 4
+TYPE: NDA
+Risks injected:
+- Missing service level agreement (SLA) late delivery penalties
+- Unfavorable governing law and jurisdiction (e.g., Delaware/London under tight timelines)
+- Overly broad indemnification obligation on customer
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

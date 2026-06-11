@@ -1,0 +1,12 @@
+MOCK CONTRACT 11
+TYPE: SOW
+Risks injected:
+- Non-GDPR compliant personal data transfer rules
+- Overly broad indemnification obligation on customer
+- Uncapped liability clause favoring vendor
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

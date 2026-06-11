@@ -1,0 +1,12 @@
+MOCK CONTRACT 10
+TYPE: NDA
+Risks injected:
+- Automatic renewal with 180-day written cancellation notice
+- Complete exclusion of all implied and express warranties on deliverables
+- Uncapped liability clause favoring vendor
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

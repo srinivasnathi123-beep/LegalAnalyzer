@@ -1,0 +1,12 @@
+MOCK CONTRACT 18
+TYPE: Vendor Agreement
+Risks injected:
+- Strict geographic non-compete and non-solicit restriction
+- Unfavorable governing law and jurisdiction (e.g., Delaware/London under tight timelines)
+- Overly broad indemnification obligation on customer
+- Automatic renewal with 180-day written cancellation notice
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

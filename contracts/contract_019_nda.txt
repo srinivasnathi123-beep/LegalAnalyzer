@@ -1,0 +1,12 @@
+MOCK CONTRACT 19
+TYPE: NDA
+Risks injected:
+- Complete exclusion of all implied and express warranties on deliverables
+- Non-GDPR compliant personal data transfer rules
+- Automatic renewal with 180-day written cancellation notice
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

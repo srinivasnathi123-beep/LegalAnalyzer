@@ -1,0 +1,12 @@
+MOCK CONTRACT 3
+TYPE: Vendor Agreement
+Risks injected:
+- Missing service level agreement (SLA) late delivery penalties
+- Missing export control compliance declarations
+- Non-GDPR compliant personal data transfer rules
+- Unfavorable governing law and jurisdiction (e.g., Delaware/London under tight timelines)
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

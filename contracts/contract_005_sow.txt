@@ -1,0 +1,12 @@
+MOCK CONTRACT 5
+TYPE: SOW
+Risks injected:
+- Unfavorable governing law and jurisdiction (e.g., Delaware/London under tight timelines)
+- Complete exclusion of all implied and express warranties on deliverables
+- Missing export control compliance declarations
+- Uncapped liability clause favoring vendor
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

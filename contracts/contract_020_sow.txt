@@ -1,0 +1,12 @@
+MOCK CONTRACT 20
+TYPE: SOW
+Risks injected:
+- Overly broad indemnification obligation on customer
+- Complete exclusion of all implied and express warranties on deliverables
+- Missing export control compliance declarations
+- Non-GDPR compliant personal data transfer rules
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |

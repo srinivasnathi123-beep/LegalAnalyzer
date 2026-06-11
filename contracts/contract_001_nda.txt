@@ -1,0 +1,12 @@
+MOCK CONTRACT 1
+TYPE: NDA
+Risks injected:
+- Complete exclusion of all implied and express warranties on deliverables
+- Overly broad indemnification obligation on customer
+- Missing export control compliance declarations
+- Strict geographic non-compete and non-solicit restriction
+
+This is standard contract body text.
+| Service | Price |
+| --- | --- |
+| Hosting | $1000/mo |
