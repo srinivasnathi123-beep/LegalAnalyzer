@@ -1,3 +1,6 @@
+Please Read : https://github.com/srinivasnathi123-beep/LegalAnalyzer/blob/main/Automated-Legal-Contract-Risk-and-Compliance-Analyzer.pdf
+
+
 # Legal Contract Risk and Compliance Analyzer
 
 An automated system designed to ingest, retrieve, and evaluate legal contracts (such as NDAs, SOWs, and Vendor Agreements) for compliance gaps and high-risk clauses. The engine combines **Pinecone Dense Search** and a **Local BM25 Sparse Index** using **Reciprocal Rank Fusion (RRF)**, backed by a **Pydantic Validation Agent** powered by **Llama-3.3-70B** on **Nebius AI Studio** (with a robust offline regex rules-engine fallback).
